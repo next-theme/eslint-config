@@ -1,0 +1,17 @@
+node_modules/
+coverage/
+test/
+tmp/
+.idea/
+.github/
+.editorconfig
+.hound.yml
+.stickler.yml
+.DS_Store
+*.log
+*.iml
+.npmignore
+.travis.yml
+appveyor.yml
+crowdin.yml
+gulpfile.js

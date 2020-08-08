@@ -1,0 +1,27 @@
+{
+  "name": "@next-theme/eslint-config",
+  "version": "0.0.1",
+  "description": "ESLint config for projects under theme NexT organization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/next-theme/eslint-config.git"
+  },
+  "keywords": [
+    "hexo",
+    "theme-next",
+    "eslint-config"
+  ],
+  "author": "NexT <support@theme-next.org> (https://theme-next.js.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/next-theme/eslint-config/issues"
+  },
+  "homepage": "https://theme-next.js.org/",
+  "peerDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
