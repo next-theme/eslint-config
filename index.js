@@ -74,6 +74,7 @@ module.exports = {
     "new-parens": 2,
     "no-array-constructor": 2,
     "no-mixed-operators": 2,
+    "no-multi-assign": 2,
     "no-multiple-empty-lines": 2,
     "no-nested-ternary": 2,
     "no-new-object": 2,
