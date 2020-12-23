@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/next-theme/eslint-config/issues"
   },
-  "homepage": "https://theme-next.js.org/",
-  "peerDependencies": {
-    "eslint": "^7.0.0"
-  }
+  "homepage": "https://theme-next.js.org/"
 }
