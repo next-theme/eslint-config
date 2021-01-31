@@ -12,7 +12,7 @@
     "theme-next",
     "eslint-config"
   ],
-  "author": "NexT <support@theme-next.org> (https://theme-next.js.org)",
+  "author": "NexT (https://theme-next.js.org)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/next-theme/eslint-config/issues"
