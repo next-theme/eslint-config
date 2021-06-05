@@ -43,7 +43,6 @@ module.exports = {
     "no-useless-concat": 2,
     "no-useless-return": 2,
     "no-void": 2,
-    "no-with": 2,
     "prefer-promise-reject-errors": 2,
     "radix": 2,
     "wrap-iife": [2, "inside"],
@@ -51,7 +50,6 @@ module.exports = {
 
     // Variables
     "no-label-var": 2,
-    "no-shadow-restricted-names": 2,
     "no-undef-init": 2,
     "no-use-before-define": 2,
 
@@ -81,6 +79,7 @@ module.exports = {
     "no-trailing-spaces": 2,
     "no-unneeded-ternary": 2,
     "no-whitespace-before-property": 2,
+    "object-curly-spacing": [2, "always"],
     "one-var": [2, {"uninitialized": "always", "initialized": "never"}],
     "operator-linebreak": [2, "before"],
     "quotes": [2, "single"],
@@ -95,6 +94,7 @@ module.exports = {
     "unicode-bom": 2,
 
     // ECMAScript 6
+    "arrow-parens": [2, "as-needed"],
     "arrow-spacing": 2,
     "generator-star-spacing": [2, "after"],
     "no-confusing-arrow": [2, {"allowParens": true}],
