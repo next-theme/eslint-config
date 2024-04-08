@@ -1,6 +1,6 @@
 {
   "name": "@next-theme/eslint-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ESLint config for projects under theme NexT organization.",
   "main": "index.js",
   "files": [
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/next-theme/eslint-config/issues"
   },
-  "homepage": "https://theme-next.js.org/"
+  "homepage": "https://theme-next.js.org/",
+  "dependencies": {
+    "@eslint/js": "^9.0.0",
+    "globals": "^15.0.0"
+  }
 }
