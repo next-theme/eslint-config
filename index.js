@@ -91,6 +91,7 @@ module.exports = [
       "no-unneeded-ternary": 2,
       "no-whitespace-before-property": 2,
       "object-curly-spacing": [2, "always"],
+      "object-shorthand": ["error", "methods"],
       "one-var": [2, { "uninitialized": "always", "initialized": "never" }],
       "operator-linebreak": [2, "before"],
       "quotes": [2, "single"],
