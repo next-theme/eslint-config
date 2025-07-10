@@ -98,7 +98,11 @@ module.exports = [
       "semi": 2,
       "semi-spacing": 2,
       "space-before-blocks": 2,
-      "space-before-function-paren": [2, "never"],
+      "space-before-function-paren": [2, {
+        "anonymous": "never",
+        "named": "never",
+        "asyncArrow": "always"
+      }],
       "space-in-parens": 2,
       "space-infix-ops": 2,
       "space-unary-ops": 2,
