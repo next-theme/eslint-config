@@ -40,11 +40,11 @@ If the file `.eslintrc.json` does not exists in the required repository, you wil
 
 Next, you can choose to install the ESLint plugin for your editor. For example, use [Visual Studio Code](https://github.com/Microsoft/vscode/) with [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) plugin installed.
 
-[npm-image]: https://img.shields.io/npm/v/@next-theme/eslint-config.svg?style=flat-square
-[lic-image]: https://img.shields.io/npm/l/@next-theme/eslint-config?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/@next-theme/eslint-config.svg?style=for-the-badge
+[lic-image]: https://img.shields.io/npm/l/@next-theme/eslint-config?style=for-the-badge
 
-[size-image]: https://img.shields.io/github/languages/code-size/next-theme/eslint-config?style=flat-square
-[dm-image]: https://img.shields.io/npm/dm/@next-theme/eslint-config?style=flat-square
-[dt-image]: https://img.shields.io/npm/dt/@next-theme/eslint-config?style=flat-square
+[size-image]: https://img.shields.io/github/languages/code-size/next-theme/eslint-config?style=for-the-badge
+[dm-image]: https://img.shields.io/npm/dm/@next-theme/eslint-config?style=for-the-badge
+[dt-image]: https://img.shields.io/npm/dt/@next-theme/eslint-config?style=for-the-badge
 
 [npm-url]: https://www.npmjs.com/package/@next-theme/eslint-config
