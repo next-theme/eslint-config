@@ -26,6 +26,6 @@
   "homepage": "https://theme-next.js.org/",
   "dependencies": {
     "@eslint/js": "^9.0.0",
-    "globals": "^15.0.0"
+    "globals": "^16.0.0"
   }
 }
