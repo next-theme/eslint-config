@@ -25,7 +25,7 @@
   },
   "homepage": "https://theme-next.js.org/",
   "dependencies": {
-    "@eslint/js": "^9.0.0",
+    "@eslint/js": "^10.0.0",
     "globals": "^17.0.0"
   }
 }
